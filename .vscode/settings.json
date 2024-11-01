@@ -1,0 +1,4 @@
+{
+    "python.analysis.extraPaths": ["/home/klyell/.local/lib/python3.10/site-packages"]
+
+}
